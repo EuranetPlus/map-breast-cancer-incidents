@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de răspândit este cancerul de sân în UE?",
+  "subtitle": "În 2024, incidența estimată a cancerului de sân a variat de la 88,4 cazuri noi la 100.000 de femei în Bulgaria la 176,4 în Belgia, în timp ce media a fost de 141,4.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Estimări ale incidenței în 2024. Rată standardizată în funcție de vârstă (Populația Standard Europeană 2013) la 100.000 de femei.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "ECIS - Sistemul European de Informații despre Cancer (2024)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "la 100.000 de locuitori",
   "tooltipExtraInfoLabel": "Click aici"
 }
