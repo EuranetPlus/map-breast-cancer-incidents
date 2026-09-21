@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak rozšířená je rakovina prsu v EU?",
+  "subtitle": "V roce 2024 se odhadovaný výskyt rakoviny prsu pohyboval od 88,4 nových případů na 100 000 žen v Bulharsku do 176,4 v Belgii, zatímco průměr byl 141,4.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Odhady incidence pro rok 2024. Věkově standardizovaná míra (Evropská standardní populace 2013) na 100 000 žen.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "ECIS - Evropský informační systém o rakovině (2024)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Žádné údaje k dispozici",
+  "customUnitLabel": "na 100 000 obyvatel",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
