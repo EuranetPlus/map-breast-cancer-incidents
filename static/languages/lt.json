@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek paplitęs krūties vėžys visoje ES?",
+  "subtitle": "2024 m. apskaičiuotas krūties vėžio sergamumas svyravo nuo 88,4 naujų atvejų 100 000 moterų Bulgarijoje iki 176,4 Belgijoje, o vidurkis buvo 141,4.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "2024 m. sergamumo įverčiai. Standartizuotas pagal amžių rodiklis (Europos standartinė populiacija, 2013 m.) 100 000 moterų.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "ECIS – Europos vėžio informacinė sistema (2024 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "100 000 gyventojų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
