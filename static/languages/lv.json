@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik izplatīts ir krūts vēzis visā ES?",
+  "subtitle": "2024. gadā aplēstā krūts vēža saslimstība svārstījās no 88,4 jauniem gadījumiem uz 100 000 sievietēm Bulgārijā līdz 176,4 Beļģijā, savukārt vidējais rādītājs bija 141,4.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "2024. gada saslimstības aplēses. Standartizēts vecuma rādītājs (Eiropas standarta populācija, 2013. gads) uz 100 000 sievietēm.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "ECIS — Eiropas vēža informācijas sistēma (2024. g.)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "uz 100 000 iedzīvotāju",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
