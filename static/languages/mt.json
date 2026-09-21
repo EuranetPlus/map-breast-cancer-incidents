@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm hu mifrux il-kanċer tas-sider madwar l-UE?",
+  "subtitle": "Fl-2024, l-inċidenza stmata tal-kanċer tas-sider varjat minn 88.4 każ ġdid għal kull 100,000 mara fil-Bulgarija sa 176.4 fil-Belġju filwaqt li l-medja kienet ta’ 141.4.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Stimi tal-inċidenza tal-2024. Rata standardizzata skont l-età (Popolazzjoni Standard Ewropea 2013) għal kull 100,000 mara.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "ECIS - Sistema Ewropea ta' Informazzjoni dwar il-Kanċer (2024)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "għal kull 100,000 abitant",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
