@@ -1,12 +1,12 @@
 {
   "title": "Qual a prevalência do câncer de mama na União Europeia?",
-  "subtitle": "Em 2024, a incidência estimada de câncer de mama variou de 88,4 novos casos por 100.000 mulheres na Bulgária a 176,4 na Bélgica, enquanto a média foi de 141,4.",
+  "subtitle": "Em 2024, a incidência estimada de câncer de mama na União Europeia variou de 88,4 novos casos por 100.000 mulheres na Bulgária a 176,4 na Bélgica, com uma média de 141,4.",
   "textNoteDescription": "Observação",
   "textNote": "Estimativas de incidência para 2024. Taxa padronizada por idade (População Padrão Europeia 2013) por 100.000 mulheres.",
   "textSourceDescription": "Fonte",
   "textSource": "ECIS - Sistema Europeu de Informação sobre o Câncer (2024)",
   "linkDataAccessDescription": "Acesse os dados",
   "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "por 100.000 habitantes",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "tooltipExtraInfoLabel": "Clique aqui",
+  "customUnitLabel": "por 100.000 habitantes"
 }

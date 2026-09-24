@@ -1,12 +1,12 @@
 {
   "title": "Hoe wijdverbreid is borstkanker in de EU?",
-  "subtitle": "In 2024 varieerde de geschatte incidentie van borstkanker van 88,4 nieuwe gevallen per 100.000 vrouwen in Bulgarije tot 176,4 in België, terwijl het gemiddelde 141,4 bedroeg.",
+  "subtitle": "In 2024 varieerde de geschatte incidentie van borstkanker in de Europese Unie van 88,4 nieuwe gevallen per 100.000 vrouwen in Bulgarije tot 176,4 in België, met een gemiddelde van 141,4.",
   "textNoteDescription": "Opmerking",
   "textNote": "Incidentieschattingen voor 2024. Leeftijdsgestandaardiseerd percentage (Europese standaardpopulatie 2013) per 100.000 vrouwen.",
   "textSourceDescription": "Bron",
   "textSource": "ECIS - Europees kankerinformatiesysteem (2024)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
   "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "per 100.000 inwoners",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "tooltipExtraInfoLabel": "Klik hier",
+  "customUnitLabel": "per 100.000 inwoners"
 }

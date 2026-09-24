@@ -1,12 +1,12 @@
 {
   "title": "Cé chomh forleathan is atá ailse chíche ar fud an AE?",
-  "subtitle": "Sa bhliain 2024, bhí minicíocht ailse chíche measta idir 88.4 cás nua in aghaidh gach 100,000 bean sa Bhulgáir agus 176.4 sa Bheilg, agus ba é 141.4 an meán.",
+  "subtitle": "Sa bhliain 2024, bhí líon measta ailse chíche san Aontas Eorpach idir 88.4 cás nua in aghaidh gach 100,000 bean sa Bhulgáir agus 176.4 sa Bheilg, le meán de 141.4.",
   "textNoteDescription": "Nóta",
   "textNote": "Meastacháin ar mhinicíocht 2024. Ráta caighdeánaithe de réir aoise (Daonra Caighdeánach Eorpach 2013) in aghaidh gach 100,000 bean.",
   "textSourceDescription": "Foinse",
   "textSource": "ECIS - Córas Faisnéise Ailse na hEorpa (2024)",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "in aghaidh gach 100,000 áitritheoir",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "in aghaidh gach 100,000 áitritheoir"
 }

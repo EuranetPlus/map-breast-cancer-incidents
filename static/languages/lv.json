@@ -1,12 +1,12 @@
 {
   "title": "Cik izplatīts ir krūts vēzis visā ES?",
-  "subtitle": "2024. gadā aplēstā krūts vēža saslimstība svārstījās no 88,4 jauniem gadījumiem uz 100 000 sievietēm Bulgārijā līdz 176,4 Beļģijā, savukārt vidējais rādītājs bija 141,4.",
+  "subtitle": "2024. gadā aplēstā krūts vēža incidence Eiropas Savienībā svārstījās no 88,4 jauniem gadījumiem uz 100 000 sievietēm Bulgārijā līdz 176,4 Beļģijā, vidēji sasniedzot 141,4.",
   "textNoteDescription": "Piezīme",
   "textNote": "2024. gada saslimstības aplēses. Standartizēts vecuma rādītājs (Eiropas standarta populācija, 2013. gads) uz 100 000 sievietēm.",
   "textSourceDescription": "Avots",
   "textSource": "ECIS — Eiropas vēža informācijas sistēma (2024. g.)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
   "legend1": "Dati nav pieejami",
-  "customUnitLabel": "uz 100 000 iedzīvotāju",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
+  "customUnitLabel": "uz 100 000 iedzīvotāju"
 }

@@ -1,12 +1,12 @@
 {
   "title": "Hvor udbredt er brystkræft i EU?",
-  "subtitle": "I 2024 varierede den anslåede forekomst af brystkræft fra 88,4 nye tilfælde pr. 100.000 kvinder i Bulgarien til 176,4 i Belgien, mens gennemsnittet var 141,4.",
+  "subtitle": "I 2024 varierede den anslåede forekomst af brystkræft i Den Europæiske Union fra 88,4 nye tilfælde pr. 100.000 kvinder i Bulgarien til 176,4 i Belgien, med et gennemsnit på 141,4.",
   "textNoteDescription": "Note",
   "textNote": "Incidensestimater for 2024. Aldersstandardiseret rate (europæisk standardbefolkning 2013) pr. 100.000 kvinder.",
   "textSourceDescription": "Kilde",
   "textSource": "ECIS - Det europæiske kræftinformationssystem (2024)",
   "linkDataAccessDescription": "Få adgang til dataene",
   "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "pr. 100.000 indbyggere",
-  "tooltipExtraInfoLabel": "Klik her"
+  "tooltipExtraInfoLabel": "Klik her",
+  "customUnitLabel": "pr. 100.000 indbyggere"
 }

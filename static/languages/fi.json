@@ -1,12 +1,12 @@
 {
   "title": "Kuinka yleinen rintasyöpä on EU:ssa?",
-  "subtitle": "Vuonna 2024 arvioitu rintasyövän ilmaantuvuus vaihteli Bulgarian 88,4 uudesta tapauksesta 100 000 naista kohden Belgian 176,4:ään, kun keskiarvo oli 141,4.",
+  "subtitle": "Vuonna 2024 rintasyövän ilmaantuvuuden arvioitu määrä Euroopan unionissa vaihteli Bulgarian 88,4 uudesta tapauksesta 100 000 naista kohden Belgian 176,4 uuteen tapaukseen, ja se oli keskimäärin 141,4.",
   "textNoteDescription": "Huomautus",
   "textNote": "Ilmaantuvuusarviot vuodelle 2024. Ikävakioitu luku (European Standard Population 2013) 100 000 naista kohden.",
   "textSourceDescription": "Lähde",
   "textSource": "ECIS - Euroopan syöpätietojärjestelmä (2024)",
   "linkDataAccessDescription": "Käytä tietoja",
   "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "100 000 asukasta kohden",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
+  "customUnitLabel": "100 000 asukasta kohden"
 }

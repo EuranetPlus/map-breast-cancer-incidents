@@ -1,12 +1,12 @@
 {
   "title": "Koliko je rak dojke raširen u EU?",
-  "subtitle": "U 2024. godini procijenjena incidencija raka dojke kretala se od 88,4 novih slučajeva na 100 000 žena u Bugarskoj do 176,4 u Belgiji, dok je prosjek bio 141,4.",
+  "subtitle": "U 2024. godini procijenjena incidencija raka dojke u Europskoj uniji kretala se od 88,4 novih slučajeva na 100 000 žena u Bugarskoj do 176,4 u Belgiji, s prosjekom od 141,4.",
   "textNoteDescription": "Bilješka",
   "textNote": "Procjene incidencije za 2024. Dobno standardizirana stopa (Europska standardna populacija 2013.) na 100 000 žena.",
   "textSourceDescription": "Izvor",
   "textSource": "ECIS - Europski informacijski sustav za rak (2024.)",
   "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
-  "customUnitLabel": "na 100.000 stanovnika",
-  "tooltipExtraInfoLabel": "Kliknite ovdje"
+  "tooltipExtraInfoLabel": "Kliknite ovdje",
+  "customUnitLabel": "na 100.000 stanovnika"
 }

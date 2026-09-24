@@ -1,12 +1,12 @@
 {
   "title": "Mennyire elterjedt az emlőrák az EU-ban?",
-  "subtitle": "2024-ben a mellrák becsült előfordulása Bulgáriában 88,4 új eset/100 000 nő között mozgott, míg Belgiumban 176,4 új eset volt, míg az átlag 141,4 volt.",
+  "subtitle": "2024-ben az emlőrák becsült előfordulása az Európai Unióban Bulgáriában 88,4 új eset/100 000 nő között, Belgiumban pedig 176,4-nél mozgott, átlagosan 141,4-et elérve.",
   "textNoteDescription": "Jegyzet",
   "textNote": "2024-es incidenciabecslések. Kor szerint standardizált arány (európai standard populáció 2013) 100 000 nőre vetítve.",
   "textSourceDescription": "Forrás",
   "textSource": "ECIS - Európai Rákkutató Információs Rendszer (2024)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
   "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "100 000 lakosra vetítve",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "tooltipExtraInfoLabel": "Kattintson ide",
+  "customUnitLabel": "100 000 lakosra vetítve"
 }

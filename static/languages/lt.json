@@ -1,12 +1,12 @@
 {
   "title": "Kiek paplitęs krūties vėžys visoje ES?",
-  "subtitle": "2024 m. apskaičiuotas krūties vėžio sergamumas svyravo nuo 88,4 naujų atvejų 100 000 moterų Bulgarijoje iki 176,4 Belgijoje, o vidurkis buvo 141,4.",
+  "subtitle": "2024 m. apskaičiuotas krūties vėžio dažnis Europos Sąjungoje svyravo nuo 88,4 naujų atvejų 100 000 moterų Bulgarijoje iki 176,4 Belgijoje, o vidurkis siekė 141,4.",
   "textNoteDescription": "Pastaba",
   "textNote": "2024 m. sergamumo įverčiai. Standartizuotas pagal amžių rodiklis (Europos standartinė populiacija, 2013 m.) 100 000 moterų.",
   "textSourceDescription": "Šaltinis",
   "textSource": "ECIS – Europos vėžio informacinė sistema (2024 m.)",
   "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "customUnitLabel": "100 000 gyventojų",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
+  "customUnitLabel": "100 000 gyventojų"
 }

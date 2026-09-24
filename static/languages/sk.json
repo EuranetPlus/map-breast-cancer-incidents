@@ -1,12 +1,12 @@
 {
   "title": "Aký je rozšírený rakovina prsníka v EÚ?",
-  "subtitle": "V roku 2024 sa odhadovaný výskyt rakoviny prsníka pohyboval od 88,4 nových prípadov na 100 000 žien v Bulharsku do 176,4 v Belgicku, zatiaľ čo priemer bol 141,4.",
+  "subtitle": "V roku 2024 sa odhadovaný výskyt rakoviny prsníka v Európskej únii pohyboval od 88,4 nových prípadov na 100 000 žien v Bulharsku do 176,4 v Belgicku s priemerom 141,4.",
   "textNoteDescription": "Poznámka",
   "textNote": "Odhady incidencie na rok 2024. Vekovo štandardizovaná miera (európska štandardná populácia 2013) na 100 000 žien.",
   "textSourceDescription": "Zdroj",
   "textSource": "ECIS - Európsky informačný systém o rakovine (2024)",
   "linkDataAccessDescription": "Prístup k údajom",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "na 100 000 obyvateľov",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "tooltipExtraInfoLabel": "Kliknite sem",
+  "customUnitLabel": "na 100 000 obyvateľov"
 }

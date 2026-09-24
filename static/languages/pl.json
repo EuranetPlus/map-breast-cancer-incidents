@@ -1,12 +1,12 @@
 {
   "title": "Jak powszechny jest rak piersi w UE?",
-  "subtitle": "Szacowana zapadalność na raka piersi w 2024 r. wahała się od 88,4 nowych przypadków na 100 000 kobiet w Bułgarii do 176,4 w Belgii, podczas gdy średnia wyniosła 141,4.",
+  "subtitle": "Szacunkowa zapadalność na raka piersi w Unii Europejskiej w 2024 r. wahała się od 88,4 nowych przypadków na 100 000 kobiet w Bułgarii do 176,4 w Belgii, przy średniej wynoszącej 141,4.",
   "textNoteDescription": "Notatka",
   "textNote": "Szacunki zapadalności na rok 2024. Współczynnik standaryzowany według wieku (Europejska Standardowa Populacja 2013) na 100 000 kobiet.",
   "textSourceDescription": "Źródło",
   "textSource": "ECIS – Europejski System Informacji o Raku (2024)",
   "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "na 100 000 mieszkańców",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "na 100 000 mieszkańców"
 }

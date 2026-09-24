@@ -1,12 +1,12 @@
 {
   "title": "How widespread is breast cancer across the EU?",
-  "subtitle": "In 2024, estimated breast cancer incidence ranged from 88.4 new cases per 100,000 women in Bulgaria to 176.4 in Belgium while the average was 141.4.",
+  "subtitle": "In 2024, the estimated incidence of breast cancer in the European Union ranged from 88.4 new cases per 100,000 women in Bulgaria to 176.4 in Belgium, with an average of 141.4.",
   "textNoteDescription": "Note",
   "textNote": "2024 incidence estimates. Age-standardised rate (European Standard Population 2013) per 100,000 women. ",
   "textSourceDescription": "Source",
   "textSource": "ECIS - European Cancer Information System (2024)",
   "linkDataAccessDescription": "Access the data",
   "legend1": "No data available",
-  "customUnitLabel": "per 100.000 inhabitants",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "per 100.000 inhabitants"
 }

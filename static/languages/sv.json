@@ -1,12 +1,12 @@
 {
   "title": "Hur utbredd är bröstcancer i EU?",
-  "subtitle": "År 2024 varierade den uppskattade bröstcancerincidensen från 88,4 nya fall per 100 000 kvinnor i Bulgarien till 176,4 i Belgien medan genomsnittet var 141,4.",
+  "subtitle": "År 2024 varierade den uppskattade incidensen av bröstcancer i Europeiska unionen från 88,4 nya fall per 100 000 kvinnor i Bulgarien till 176,4 i Belgien, med ett genomsnitt på 141,4.",
   "textNoteDescription": "Notera",
-  "textNote": "Incidensuppskattningar 2024. Åldersstandardiserad frekvens (europeisk standardpopulation 2013) per 100 000 kvinnor.",
+  "textNote": "Incidensuppskattningar för 2024. Åldersstandardiserad frekvens (europeisk standardpopulation 2013) per 100 000 kvinnor.",
   "textSourceDescription": "Källa",
   "textSource": "ECIS - Europeiska cancerinformationssystemet (2024)",
   "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
-  "customUnitLabel": "per 100 000 invånare",
-  "tooltipExtraInfoLabel": "Klicka här"
+  "tooltipExtraInfoLabel": "Klicka här",
+  "customUnitLabel": "per 100 000 invånare"
 }

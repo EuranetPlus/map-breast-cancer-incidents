@@ -1,12 +1,12 @@
 {
   "title": "Quanto è diffuso il cancro al seno nell'UE?",
-  "subtitle": "Nel 2024, l'incidenza stimata del cancro al seno variava da 88,4 nuovi casi ogni 100.000 donne in Bulgaria a 176,4 in Belgio, mentre la media era di 141,4.",
+  "subtitle": "Nel 2024, l'incidenza stimata del cancro al seno nell'Unione Europea variava da 88,4 nuovi casi ogni 100.000 donne in Bulgaria a 176,4 in Belgio, con una media di 141,4.",
   "textNoteDescription": "Nota",
   "textNote": "Stime di incidenza per il 2024. Tasso standardizzato per età (popolazione standard europea 2013) ogni 100.000 donne.",
   "textSourceDescription": "Fonte",
   "textSource": "ECIS - Sistema europeo di informazione sul cancro (2024)",
   "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "ogni 100.000 abitanti",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "ogni 100.000 abitanti"
 }

@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
   "title": "How widespread is breast cancer across the EU?",
-  "subtitle": "In 2024, estimated breast cancer incidence ranged from 88.4 new cases per 100,000 women in Bulgaria to 176.4 in Belgium while the average was 141.4.",
+  "subtitle": "In 2024, the estimated incidence of breast cancer in the European Union ranged from 88.4 new cases per 100,000 women in Bulgaria to 176.4 in Belgium, with an average of 141.4.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,111.4,false,,,,,,,,,\nBelgium,BE,176.4,false,,,,,,,,,\nBulgaria,BG,88.4,false,,,,,,,,,\nCroatia,HR,132.1,false,,,,,,,,,\nCyprus,CY,158.1,false,,,,,,,,,\nCzechia,CZ,126.8,false,,,,,,,,,\nDenmark,DK,168.4,false,,,,,,,,,\nEstonia,EE,113.2,false,,,,,,,,,\nFinland,FI,163.2,false,,,,,,,,,\nFrance,FR,169.7,false,,,,,,,,,\nGermany,DE,146.1,false,,,,,,,,,\nGreece,EL,137.9,false,,,,,,,,,\nHungary,HU,131.6,false,,,,,,,,,\nIreland,IE,152.7,false,,,,,,,,,\nItaly,IT,153.1,false,,,,,,,,,\nLatvia,LV,115.3,false,,,,,,,,,\nLithuania,LT,103.7,false,,,,,,,,,\nLuxembourg,LU,159.2,false,,,,,,,,,\nMalta,MT,165.8,false,,,,,,,,,\nNetherlands,NL,161.6,false,,,,,,,,,\nPoland,PL,110.5,false,,,,,,,,,\nPortugal,PT,145.6,false,,,,,,,,,\nRomania,RO,117.0,false,,,,,,,,,\nSlovakia,SK,131.1,false,,,,,,,,,\nSlovenia,SI,140.2,false,,,,,,,,,\nSpain,ES,113.6,false,,,,,,,,,\nSweden,SE,149.9,false,,,,,,,,,",
   "parsedData": [
@@ -439,7 +440,7 @@ export const mapConfig = writable({
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "How widespread is breast cancer across the EU?",
-    "subtitle": "In 2024, estimated breast cancer incidence ranged from 88.4 new cases per 100,000 women in Bulgaria to 176.4 in Belgium while the average was 141.4.",
+    "subtitle": "In 2024, the estimated incidence of breast cancer in the European Union ranged from 88.4 new cases per 100,000 women in Bulgaria to 176.4 in Belgium, with an average of 141.4.",
     "textNoteDescription": "Note",
     "textNote": "2024 incidence estimates. Age-standardised rate (European Standard Population 2013) per 100,000 women. ",
     "textSourceDescription": "Source",

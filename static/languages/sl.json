@@ -1,12 +1,12 @@
 {
   "title": "Kako razširjen je rak dojke v EU?",
-  "subtitle": "Leta 2024 se je ocenjena incidenca raka dojke gibala od 88,4 novih primerov na 100.000 žensk v Bolgariji do 176,4 v Belgiji, medtem ko je bilo povprečje 141,4.",
+  "subtitle": "Leta 2024 se je ocenjena incidenca raka dojke v Evropski uniji gibala od 88,4 novih primerov na 100.000 žensk v Bolgariji do 176,4 v Belgiji, s povprečjem 141,4.",
   "textNoteDescription": "Opomba",
   "textNote": "Ocene incidence za leto 2024. Starostno standardizirana stopnja (Evropska standardna populacija 2013) na 100.000 žensk.",
   "textSourceDescription": "Vir",
   "textSource": "ECIS - Evropski informacijski sistem za boj proti raku (2024)",
   "linkDataAccessDescription": "Dostop do podatkov",
   "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "na 100.000 prebivalcev",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
+  "customUnitLabel": "na 100.000 prebivalcev"
 }

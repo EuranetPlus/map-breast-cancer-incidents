@@ -1,12 +1,12 @@
 {
   "title": "¿Qué tan extendido está el cáncer de mama en la UE?",
-  "subtitle": "En 2024, la incidencia estimada de cáncer de mama osciló entre 88,4 casos nuevos por cada 100.000 mujeres en Bulgaria y 176,4 en Bélgica, mientras que el promedio fue de 141,4.",
+  "subtitle": "En 2024, la incidencia estimada de cáncer de mama en la Unión Europea osciló entre 88,4 casos nuevos por cada 100.000 mujeres en Bulgaria y 176,4 en Bélgica, con una media de 141,4.",
   "textNoteDescription": "Nota",
   "textNote": "Estimaciones de incidencia para 2024. Tasa estandarizada por edad (Población Estándar Europea 2013) por cada 100 000 mujeres.",
   "textSourceDescription": "Fuente",
   "textSource": "ECIS - Sistema Europeo de Información sobre el Cáncer (2024)",
   "linkDataAccessDescription": "Acceder a los datos",
   "legend1": "No hay datos disponibles",
-  "customUnitLabel": "por cada 100.000 habitantes",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "customUnitLabel": "por cada 100.000 habitantes"
 }

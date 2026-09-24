@@ -1,12 +1,12 @@
 {
   "title": "Cât de răspândit este cancerul de sân în UE?",
-  "subtitle": "În 2024, incidența estimată a cancerului de sân a variat de la 88,4 cazuri noi la 100.000 de femei în Bulgaria la 176,4 în Belgia, în timp ce media a fost de 141,4.",
+  "subtitle": "În 2024, incidența estimată a cancerului de sân în Uniunea Europeană a variat de la 88,4 cazuri noi la 100.000 de femei în Bulgaria la 176,4 în Belgia, cu o medie de 141,4.",
   "textNoteDescription": "Nota",
   "textNote": "Estimări ale incidenței în 2024. Rată standardizată în funcție de vârstă (Populația Standard Europeană 2013) la 100.000 de femei.",
   "textSourceDescription": "Sursă",
   "textSource": "ECIS - Sistemul European de Informații despre Cancer (2024)",
   "linkDataAccessDescription": "Accesați datele",
   "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "la 100.000 de locuitori",
-  "tooltipExtraInfoLabel": "Click aici"
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "la 100.000 de locuitori"
 }

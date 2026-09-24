@@ -1,12 +1,12 @@
 {
   "title": "Kui levinud on rinnavähk ELis?",
-  "subtitle": "2024. aastal ulatus rinnavähi hinnanguline esinemissagedus Bulgaarias 88,4 uuest juhtumist 100 000 naise kohta 176,4-ni Belgias, samas kui keskmine oli 141,4.",
+  "subtitle": "2024. aastal oli rinnavähi hinnanguline esinemissagedus Euroopa Liidus Bulgaarias 88,4 uuest juhtumist 100 000 naise kohta kuni Belgias 176,4 uue juhtumini, keskmiselt 141,4.",
   "textNoteDescription": "Märkus",
   "textNote": "2024. aasta esinemissageduse hinnangud. Vanuse järgi standardiseeritud määr (Euroopa standardpopulatsioon 2013) 100 000 naise kohta.",
   "textSourceDescription": "Allikas",
   "textSource": "ECIS - Euroopa Vähiinfosüsteem (2024)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
   "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "100 000 elaniku kohta",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "tooltipExtraInfoLabel": "Kliki siia",
+  "customUnitLabel": "100 000 elaniku kohta"
 }

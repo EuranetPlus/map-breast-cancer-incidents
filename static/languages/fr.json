@@ -1,12 +1,12 @@
 {
   "title": "Quelle est l'ampleur du cancer du sein dans l'UE ?",
-  "subtitle": "En 2024, l'incidence estimée du cancer du sein variait de 88,4 nouveaux cas pour 100 000 femmes en Bulgarie à 176,4 en Belgique, tandis que la moyenne était de 141,4.",
+  "subtitle": "En 2024, l'incidence estimée du cancer du sein dans l'Union européenne variait de 88,4 nouveaux cas pour 100 000 femmes en Bulgarie à 176,4 en Belgique, avec une moyenne de 141,4.",
   "textNoteDescription": "Note",
   "textNote": "Estimations de l'incidence pour 2024. Taux standardisé selon l'âge (population standard européenne 2013) pour 100 000 femmes.",
   "textSourceDescription": "Source",
   "textSource": "ECIS - Système européen d'information sur le cancer (2024)",
   "linkDataAccessDescription": "Accéder aux données",
   "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "pour 100 000 habitants",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "pour 100 000 habitants"
 }

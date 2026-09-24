@@ -1,12 +1,12 @@
 {
   "title": "Wie verbreitet ist Brustkrebs in der EU?",
-  "subtitle": "Im Jahr 2024 lag die geschätzte Brustkrebsinzidenz zwischen 88,4 neuen Fällen pro 100.000 Frauen in Bulgarien und 176,4 in Belgien, der Durchschnitt betrug 141,4.",
+  "subtitle": "Im Jahr 2024 lag die geschätzte Brustkrebsinzidenz in der Europäischen Union zwischen 88,4 neuen Fällen pro 100.000 Frauen in Bulgarien und 176,4 in Belgien, mit einem Durchschnitt von 141,4.",
   "textNoteDescription": "Notiz",
   "textNote": "Inzidenzschätzungen für 2024. Altersstandardisierte Rate (Europäische Standardbevölkerung 2013) pro 100.000 Frauen.",
   "textSourceDescription": "Quelle",
   "textSource": "ECIS – Europäisches Krebsinformationssystem (2024)",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "pro 100.000 Einwohner",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "pro 100.000 Einwohner"
 }
